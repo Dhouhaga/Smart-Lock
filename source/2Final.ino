@@ -30,7 +30,7 @@ String msgnew = "ENTER NEW PW :";
 
 //Passwords
 char *PW1 = "0000";
-String PW2 = "0248";
+String PW2 = "1234";
 
 char key,prevkey='N'; // N stands for NO_KEY
 

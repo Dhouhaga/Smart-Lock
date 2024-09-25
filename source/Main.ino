@@ -10,7 +10,6 @@
 
 #define greenLED 32 ;
 #define redLED 25;
-#define button 4;
 #define lock 14;
 
 #define I2CADDR 0x20   //I2C address

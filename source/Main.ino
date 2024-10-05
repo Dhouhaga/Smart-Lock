@@ -20,14 +20,14 @@ MFRC522 rfid(SS_PIN,RST_PIN);         //RFID instance
 
 LiquidCrystal_I2C lcd(0x27, 20, 4);   //LCD instance
 
-String cardID="";   //Read user's cardID
+String cardID="";   //Store user's cardID
 
 //Messages for output
 String msg = "ENTER PW : ";
 String msgchange = "\\CHANGING PW\\";
 String msgnew = "ENTER NEW PW :";
 
-//Passwords
+//Passwords 
 char *PW1 = "0000";
 String PW2 = "1234";
 

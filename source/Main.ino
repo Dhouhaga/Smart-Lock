@@ -56,8 +56,8 @@ byte colPins[COLS] = {4, 5, 6};
 Keypad_I2C kypad( makeKeymap(kpad), rowPins, colPins, ROWS, COLS, I2CADDR); //Keypad instance
 
 //Wifi Config
-const char* ssid="TT_62F8";
-const char* password="gannjvd19b";
+const char* ssid="";
+const char* password="";
 
 WebServer server(80);
 char LEDState[2][10]={"Unlocked","Locked"};

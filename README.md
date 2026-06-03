@@ -1,6 +1,6 @@
 # Smart Lock System
 
-A smart lock system built on ESP32 microcontroller, integrating RFID, keypad input, web control, and LCD feedback.
+A smart lock system built on ESP32 microcontroller, integrating RFID, keypad input, custom web app for control, and LCD feedback.
 
 ## Features
 

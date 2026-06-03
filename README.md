@@ -97,12 +97,12 @@ Change in lines 31-32 of `Main.ino`
 
 ## Security Notes
 
-⚠️ **Current Implementation (Development)**:
+**Current Implementation (Development)**:
 - Passwords stored in plain text
 - No authentication on web API
 - RFID UIDs easily cloned
 
-✅ **For Production**:
+ **For Production**:
 - Use encrypted password storage (SHA-256)
 - Add API token authentication
 - Implement attempt rate limiting

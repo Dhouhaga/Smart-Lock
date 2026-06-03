@@ -127,7 +127,3 @@ Change in lines 31-32 of `Main.ino`
 - 20x4 I2C LCD Display
 - 2x LEDs (220Ω resistors)
 - Door lock relay module
-
-## License
-
-MIT License - See LICENSE file for details
